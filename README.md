@@ -30,6 +30,14 @@ https://app.swaggerhub.com/apis-docs/allston.fojas/DMA_Weather_API/1.0.0
 3. Make product links as hyperlinks
 4. Get product recommendations
 
+## Presentation - Title and Demo Slides:
+
+![Title Slide](images/title_slide.png)
+
+![Product Recommendations Webpage](images/webpage.png)
+
+![TV Ad](images/tv.png)
+
 ## GHCN Daily By Year Documentation
 ___https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/___
 
