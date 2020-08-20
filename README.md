@@ -32,11 +32,11 @@ https://app.swaggerhub.com/apis-docs/allston.fojas/DMA_Weather_API/1.0.0
 
 ## Presentation - Title and Demo Slides:
 
-![Title Slide](images/title_slide.png)
+![Title Slide](images/title_slide.PNG)
 
-![Product Recommendations Webpage](images/webpage.png)
+![Product Recommendations Webpage](images/webpage.PNG)
 
-![TV Ad](images/tv.png)
+![TV Ad](images/tv.PNG)
 
 ## GHCN Daily By Year Documentation
 ___https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/___
