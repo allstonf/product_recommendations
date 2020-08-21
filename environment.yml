@@ -1,0 +1,21 @@
+name: product_recommendations
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python>=3.8
+  - jupyterlab=2.1.1
+  - pandas
+  - numpy
+  - urllib
+  - os
+  - gzip
+  - json
+  - re
+  - math
+  - sklearn
+  - nltk
+  - matplotlib
+  - warnings
